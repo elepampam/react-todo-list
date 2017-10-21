@@ -1,0 +1,15 @@
+.todo-card{
+	position: relative;
+	padding: 10px;
+	margin: 15px;
+	border-radius: 5px;
+	border: 1.25px solid #AAA;	
+	float: left;
+}
+
+.header-id{	
+	width: 100%;
+	text-align: center;
+	background-color: #AAA;
+	font-size: 16px;
+}
